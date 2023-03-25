@@ -15,6 +15,9 @@ const yOff = 0.0015;
 const zOff = 0.0015;
 const backgroundColor = "hsla(0,0%,5%,1)";
 
+//define variable
+let dummy = 0;
+
 let container;
 let canvas;
 let ctx;
